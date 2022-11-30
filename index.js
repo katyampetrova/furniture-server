@@ -8,7 +8,7 @@ const trimBody = require('./middlewares/trimBody');
 const session = require('./middlewares/session');
 
 
-const connectionString = 'mongodb://localhost:27017/furniture3';
+const connectionString = 'mongodb://localhost:27017/store';
 
 start();
 
